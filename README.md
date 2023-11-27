@@ -3,9 +3,13 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
 how to run
-git clone 
-go inside the recipe app
+
+git clone
+
+g0o inside the recipe app
+
 do npm install
+
 then ng serve --o
 
 ## Development server
