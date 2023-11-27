@@ -6,7 +6,7 @@ how to run
 
 git clone
 
-g0o inside the recipe app
+go inside the recipe app
 
 do npm install
 
